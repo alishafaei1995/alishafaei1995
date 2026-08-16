@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20there,%20I'm%20pingfun%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Network%20Automation%20%26%20Security%20Engineer&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Telecom%20%26%20Critical%20Infrastructure%20%7C%20Automation%20%7C%20Firmware&descAlignY=55&descSize=16" width="100%"/>
 
-<a href="https://github.com/alishafaei1995">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;I+build+things+with+code;Always+learning+something+new;Feel+free+to+explore+my+repos+%F0%9F%9A%80&font=Fira+Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&size=22&pause=1200" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?lines=4%2B+years+in+telecom+%26+security+infrastructure;I+automate+the+boring%2C+fix+the+impossible;Firewall+orchestration+%7C+Firmware+%7C+AI-assisted+dev;Delivering+in+hours+what+others+estimate+in+months&font=Fira+Code&center=true&width=520&height=45&color=58A6FF&vCenter=true&size=20&pause=1400" alt="Typing SVG" />
 
 </div>
 
@@ -12,21 +10,77 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on exciting personal & open-source projects
-- 🌱 Always learning new tools, frameworks and best practices
-- 💡 I enjoy turning ideas into clean, working software
-- 🎯 2026 goal: ship more, learn more, share more
-- ⚡ Fun fact: this profile was set up together with an AI pair-programmer
+- 🔧 Hands-on **network & security engineer** working across telecom and critical infrastructure
+- ⚙️ Focused on **automation, firewall orchestration, and firmware customization**
+- 💻 Code as a hobby, with **AI-assisted tools** (Cursor, Claude Code) for rapid prototyping
+- 🏆 Known for cracking tough operational problems quickly
+- 🌱 Always learning: currently deepening automation & security tooling skills
 
 <br/>
 
-### 🛠️ Tech Stack
+### 🛠️ Core Skills
 
-<div align="center">
+**Networking**
+<br/>
+![MikroTik](https://img.shields.io/badge/MikroTik_RouterOS-293239?style=flat-square&logo=mikrotik&logoColor=white)
+![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-4B8BBE?style=flat-square)
+![RAN](https://img.shields.io/badge/RAN-4B8BBE?style=flat-square)
+![IPsec](https://img.shields.io/badge/IPsec-4B8BBE?style=flat-square)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,html,css,react,nodejs,git,github,vscode,windows,linux&theme=dark" />
+**Automation**
+<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square)
+![Batch](https://img.shields.io/badge/Batch_Scripting-4D4D4D?style=flat-square)
 
-</div>
+**Firmware & Systems**
+<br/>
+![OpenWRT](https://img.shields.io/badge/OpenWRT-00B5E2?style=flat-square&logo=openwrt&logoColor=white)
+![LuCI](https://img.shields.io/badge/LuCI-00B5E2?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux_(LPIC)-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
+**Dev Tools**
+<br/>
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+<br/>
+
+### 💼 Experience Highlights
+
+**Network Automation & Security Engineer** · Telecom & Critical Infrastructure Sector · *Present*
+- Automate firewall and network configuration management through REST APIs, replacing manual operational workflows
+- Apply AI-assisted engineering workflows to speed up infrastructure delivery and prototyping
+- Customize and harden router/firmware platforms for ISP-grade deployments
+- Build internal monitoring & automation tooling to reduce incident response time
+
+**RAN Operations Engineer** · Huawei Technologies (Iran) · Oct 2022 – May 2023
+- Monitored and supported 4G/5G Radio Access Network operations, maintaining SLA compliance
+- Built log-analysis tooling to streamline alarm triage
+- Contributed to backbone connectivity troubleshooting
+
+**SAP Project Intern** · MAPNA Turbine Blade Eng. & Mfg. Co. · Jun 2018 – Apr 2019
+- Supported SAP (ABAP) implementation and documentation for manufacturing workflows
+
+<br/>
+
+### 📜 Certifications
+
+![CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![LPIC](https://img.shields.io/badge/Linux-LPIC-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MikroTik](https://img.shields.io/badge/MikroTik-RouterOS_Certified-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
+
+<br/>
+
+### 🌐 Languages
+
+Persian (Native) · Turkish (Native) · English (Reading/Writing)
 
 <br/>
 
@@ -65,12 +119,11 @@
 
 <br/>
 
-### 🤝 Connect With Me
+### 🤝 Connect
 
 <div align="center">
 
 <a href="https://github.com/alishafaei1995"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:alishafaei041@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 

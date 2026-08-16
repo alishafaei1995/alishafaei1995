@@ -84,16 +84,25 @@ Persian (Native) · Turkish (Native) · English (Reading/Writing)
 
 <br/>
 
+### 📌 Featured Project
+
+**[fortinet-excel-sync](https://github.com/pingfun1995/fortinet-excel-sync)** — watches an
+Excel sheet over SSH and auto-syncs FortiGate address objects **and** full route-based
+IPsec site-to-site tunnels (Phase1/Phase2/routes/policies), with safe idempotent
+create/skip/delete, multi-firewall support, and a Windows service mode.
+
+<br/>
+
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alishafaei1995&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishafaei1995&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pingfun1995&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pingfun1995&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alishafaei1995&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pingfun1995&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -103,7 +112,7 @@ Persian (Native) · Turkish (Native) · English (Reading/Writing)
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=alishafaei1995&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=pingfun1995&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -113,7 +122,7 @@ Persian (Native) · Turkish (Native) · English (Reading/Writing)
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alishafaei1995&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pingfun1995&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
@@ -123,7 +132,7 @@ Persian (Native) · Turkish (Native) · English (Reading/Writing)
 
 <div align="center">
 
-<a href="https://github.com/alishafaei1995"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/pingfun1995"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
@@ -131,7 +140,7 @@ Persian (Native) · Turkish (Native) · English (Reading/Writing)
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=alishafaei1995&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=pingfun1995&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
